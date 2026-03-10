@@ -38,7 +38,6 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by: A.Allahbakash 
 RegisterNumber:212225240007
 
-
 **RTL realization**
 <img width="760" height="660" alt="Screenshot 2026-03-10 090804" src="https://github.com/user-attachments/assets/2214ff12-d4c8-415b-b585-1b7e823430f0" />
 
